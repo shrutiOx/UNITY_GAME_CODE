@@ -1,10 +1,11 @@
-## CROSS AND RUN
+# CROSS AND RUN
 
-# Game Overview
+## Game Overview
 
 An action-packed endless runner where you control a chicken racing through dangerous environments while being pursued by a dragon. Quick reflexes and strategic coin collection are your keys to survival.
 
 ## Gameplay Mechanics
+
 - **Core Challenge**: Navigate through obstacles while maintaining speed to outrun the pursuing dragon
 - **Progression**: Collect 50 coins to advance from GreenLand to CherryLand
 - **Scoring**: Distance traveled determines your final score
@@ -28,6 +29,6 @@ An action-packed endless runner where you control a chicken racing through dange
 ## Media
 Gameplay videos available on [YouTube](https://www.youtube.com/@Ssc2969)
 
-The game videos can be found here - https://www.youtube.com/@Ssc2969
+
 
 
