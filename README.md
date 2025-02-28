@@ -1,6 +1,6 @@
 # UNITY_GAME_CODE : CROSS AND RUN
 
-#Game Summary - 
+# Game Summary - 
 
 The chicken has to cross the street avoiding all obstacles and death trap and of-course it cannot slow down , cause a dragon is chasing  it.
 
