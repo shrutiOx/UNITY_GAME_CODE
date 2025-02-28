@@ -2,7 +2,7 @@
 
 # Game Summary - 
 
-The chicken has to cross the street avoiding all obstacles and death trap and of-course it cannot slow down , cause a dragon is chasing  it.
+The chicken has to cross the street avoiding all obstacles and death trap and of-course it cannot slow down , cause a dragon is chasing  it. It can collect coins to increase its score and that would take it to the next level (Cherryland) from current level (GreenLand) . If it gets hurt, points are deducted , speed is decreased and the dragon catches up. 
 
 # Information about this repo
  Codes used to create a game in Unity that was previously hosted in Google Play Store, have been removed in 2022, to oblige by UK student VISA regulations.
