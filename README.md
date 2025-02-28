@@ -1,17 +1,32 @@
-# UNITY_GAME_CODE : CROSS AND RUN
+## CROSS AND RUN
 
-# Game Summary - 
+# Game Overview
 
-The chicken has to cross the street avoiding all obstacles and death trap and of-course it cannot slow down , cause a dragon is chasing  it. 
+An action-packed endless runner where you control a chicken racing through dangerous environments while being pursued by a dragon. Quick reflexes and strategic coin collection are your keys to survival.
 
-It have to collect coins (50) to go the next level (Cherryland) from current level (GreenLand) . If it gets hurt, lives are deducted , speed is decreased and the dragon catches up. The score is the calculation of how much forward distance it moves.  Player can die if 1) Dragon chases up (Ghost script for dragon) 2) falls into one of the death traps 3) Lives becomes zero due to multiple accidents . If it collects 50 coins, it will move to the next level. If it collects gift boxes, it will be granted lives.
+## Gameplay Mechanics
+- **Core Challenge**: Navigate through obstacles while maintaining speed to outrun the pursuing dragon
+- **Progression**: Collect 50 coins to advance from GreenLand to CherryLand
+- **Scoring**: Distance traveled determines your final score
+- **Health System**: Lives decrease with each collision, slowing you down and bringing the dragon closer
 
+## Hazards & Power-ups
+- **Death Conditions**:
+  - Dragon catches up to you
+  - Falling into death traps
+  - Depleting all lives
+- **Collectibles**:
+  - Coins (50 required for level advancement)
+  - Gift boxes (grant extra lives)
 
-# Information about this repo
+## Technical Details
+- **Developed in 2021** using Unity and C#
+- **Assets created** with Magica Voxel for characters and environments
+- **Previously available** on Google Play Store with 3,000+ downloads
+- **Game removed** in 2022 to comply with UK student visa regulations
 
-I created this  in 2021  using Unity, Magica Voxel (for game characters, environment creation ) using C# code.
-
-Game was previously hosted in Google Play Store (had around 3k+ downloads within a year), but had to be removed in 2022, to oblige by UK student VISA regulations.
+## Media
+Gameplay videos available on [YouTube](https://www.youtube.com/@Ssc2969)
 
 The game videos can be found here - https://www.youtube.com/@Ssc2969
 
